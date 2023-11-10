@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaisaideepkalakoti/age-calculator.git/static/css/main.9265914f.css",
+    "main.js": "/jaisaideepkalakoti/age-calculator.git/static/js/main.09339044.js",
+    "static/js/787.1715cc32.chunk.js": "/jaisaideepkalakoti/age-calculator.git/static/js/787.1715cc32.chunk.js",
+    "index.html": "/jaisaideepkalakoti/age-calculator.git/index.html",
+    "main.9265914f.css.map": "/jaisaideepkalakoti/age-calculator.git/static/css/main.9265914f.css.map",
+    "main.09339044.js.map": "/jaisaideepkalakoti/age-calculator.git/static/js/main.09339044.js.map",
+    "787.1715cc32.chunk.js.map": "/jaisaideepkalakoti/age-calculator.git/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9265914f.css",
+    "static/js/main.09339044.js"
+  ]
+}
